@@ -70,6 +70,8 @@ A partir del texto siguiente, realiza:
 
 
 
+
+
 👉 una síntesis en Español (entre 200 y 300 palabras)
 
 ## Actividad 2
