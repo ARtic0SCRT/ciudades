@@ -30,10 +30,11 @@ La **gentrificación** es un proceso urbano en el que un barrio tradicionalmente
 <!-- * ➕ Puede **mejorar infraestructuras y seguridad**.
 * ➖ Pero también **aumenta la desigualdad** y rompe redes sociales locales.-->
 
-## 🏙 Actividad
+# Actividad
 
-### Sobre la noticia sobre la gentrificación
-en Madrid. A partir del texto siguiente:
+## 🏙 Actividad 1
+
+### Sobre la noticia sobre la gentrificación  en Madrid. 
 
 Source: Courrier International 
 Titre: Immobilier. Madrid en voie de “super-gentrification”
@@ -41,11 +42,13 @@ Date: 29/04/2025
 
 Lien: https://www.courrierinternational.com/article/madrid-en-voie-de-super-gentrification_230188
 
-Realiza:
+A partir del texto siguiente, realiza:
 
 👉 una traducción del texto
 
 👉 una síntesis en Español (entre 200 y 300 palabras)
+
+## Actividad 2
 
 ### Pregunta 1: En tus palabras, explica el fenómeno de gentrificación en Madrid y menciona al menos dos causas y dos consecuencias.
 
