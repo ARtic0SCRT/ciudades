@@ -46,6 +46,17 @@ A partir del texto siguiente, realiza:
 
 👉 una traducción del texto
 
+# balance anual
+# especializada en la alta gama
+# Madrid se situa en lo alto de la clasificación de *las metropolis*, las mas buscadas por los ultraricos, justo adelante de Dubai y Miami, y ahora adelante, lejos de Londres  y Nueva York.
+# En el centro de Madrid, los apartamentos de lujo pueden venderse hasta 30% mas caro de un año a otro, segun el sitio de infor,ación diario.es.
+# En varios barrios de la capital un proceso de supergentrificacion se desarrolla, entonces el estrato superior de las clases medianas no son mas las solas victimas.
+# la clase media no es la única víctima
+
+
+
+
+
 👉 una síntesis en Español (entre 200 y 300 palabras)
 
 ## Actividad 2
