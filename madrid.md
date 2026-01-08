@@ -53,6 +53,19 @@ A partir del texto siguiente, realiza:
 # En varios barrios de la capital un proceso de supergentrificacion se desarrolla, entonces el estrato superior de las clases medianas no son mas las solas victimas.
 # la clase media no es la única víctima
 
+ # Actualmente - A la fecha - Hasta el presente
+ traduccion con el sentido de la frase -- Hasta la fecha, igualmente los ricos son presionados a salir
+ traduccion literal -- a la fecha, son igualmente empujados hacia la salida las personas de alto valor
+ 
+# En la jerga de las finanzas, a la cabeza de activos equivale a 1 millon de dolares al menos, sin contar su residencia principal.
+
+# El fenómeno que hay actualmente en el barrio rico de Salamanca, por ejemplo, ya era evidente en BH, uno de los principales barrios de Br : los ultra ricos han cazado los bienes de las personas de alto valor.
+
+# En Madrid, las principales fortunas venidas de Mexico o Venezuela disfrutan de una fiscalidad que les es particularmente favorable
+# En Madrid, las principales fortunas venidas de Mexico o Venezuela disfrutan de una reducción de impuestos que es particularmente favorable
+
+# Entre las multiples bajas de impuestos decididas por Isabel Diaz Ayuso, la presidenta mas liberal de la comunidad autónoma, la cual ha reducido / ha disminuido de 99% el impuesto sobre la sucesión y las donaciones les incitan a no satisfacerse de un solo lugar inmobiliario.
+
 
 
 
