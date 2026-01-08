@@ -66,7 +66,12 @@ A partir del texto siguiente, realiza:
 
 # Entre las multiples bajas de impuestos decididas por Isabel Diaz Ayuso, la presidenta mas liberal de la comunidad autónoma, la cual ha reducido / ha disminuido de 99% el impuesto sobre la sucesión y las donaciones les incitan a no satisfacerse de un solo lugar inmobiliario.
 
+# En Madrid, las grandes fortunas venidas de Mexico o de Venezuela aprovechan de una fiscalidad que 
 
+# En el intento de hacer bajar el precio de los inmuebles, el fin de la visa dorada que beneficiaba a los residentes no europeos realizan una inversión inmobiliaria de al menos 500 mil, entro en vigor el 3 de abril, no es natural que impresione a los ultra ricos.
+EN Barnez estimamos que el 80% de migrantes 
+
+tasa adicional sobre los hogares 
 
 
 
