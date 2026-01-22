@@ -1,5 +1,8 @@
+St Jude - scriverat - T-ESPG
+
 # TEMA: TRANSICION DEMOCRATICA EN ESPAÑA
 
+## INTRODUCCION
 
 > *Les décennies 1970 et 1980 (de la mort de Franco en 1975 à l’intégration européenne effective en 1986) sont pour l’Espagne un moment et un tournant politiques majeurs. Ces années sont celle d’une transition vers un régime démocratique qui est marquée par des à-coups : avancées (Ley para la Reforma política, élections de 1977, Pactos de la Moncloa, Constitution de 1978…) et tentatives d’opposition (Operación Galaxia, terrorisme, 23F…).* 
 
@@ -8,7 +11,7 @@
 > *Ainsi, l’adhésion de l’Espagne à la CEE en 1986 peut être envisagée comme l’abo utissement du processus de transition démocratique commencé une décennie plus tôt. Enfin, il faudra prendre en compte les soubresauts de violence politique qui émaillent la mise en place de la démocratie, de la tentative de coup d’état du 23 février 1981, à la réactivation de mouvements autonomistes et indépendantistes ainsi que terroristes comme l’ETA.*
 
 ---
-# Traduccion ES
+### Traducción ES
 
 Las décadas de 1970 y 1980 (desde la muerte de Franco en 1975 hasta la integración efectiva en la Unión Europea en 1986) supusieron para España un momento y un giro políticos fundamentales. Estos años fueron testigos de una transición hacia un régimen democrático marcada por altibajos: avances (Ley para la Reforma Política, elecciones de 1977, Pactos de la Moncloa, Constitución de 1978...) e intentos de oposición (Operación Galaxia, terrorismo, 23F...). 
 
@@ -19,9 +22,9 @@ Así, la adhesión de España a la CEE en 1986 puede considerarse como la culmin
 
 # Contexto
 
-- el contexto de los años 1970 en España y caracterizar el último periodo de la dictadura de Franco (“atado y bien atado”, el búnker, los inmovilistas, Carrero Blanco, Arias Navarro);
-- los trastornos de noviembre 1975: muerte de Franco (20 N) y juramento de Juan Carlos como rey de España en la Cortes franquista (22 N);
-- la cuestión de una democratización: ¿ruptura o reforma?,
+- El contexto de los años 1970 en España y caracterizar el último periodo de la dictadura de Franco (“atado y bien atado”, el búnker, los inmovilistas, Carrero Blanco, Arias Navarro);
+- Los trastornos de noviembre 1975: muerte de Franco (20 N) y juramento de Juan Carlos como rey de España en la Cortes franquista (22 N);
+- La cuestión de una democratización: ¿ruptura o reforma?,
 
 # La problemática es:
 ¿Cómo España llegó a convertirse en un régimen democrático?
