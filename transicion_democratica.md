@@ -1,10 +1,10 @@
 # TRANSICION DEMOCRATICA EN ESPAÑA
 
-**Les décennies 1970 et 1980 (de la mort de Franco en 1975 à l’intégration européenne effective en 1986) sont pour l’Espagne un moment et un tournant politiques majeurs. Ces années sont celle d’une transition vers un régime démocratique qui est marquée par des à-coups : avancées (Ley para la Reforma política, élections de 1977, Pactos de la Moncloa, Constitution de 1978…) et tentatives d’opposition (Operación Galaxia, terrorisme, 23F…). 
+*Les décennies 1970 et 1980 (de la mort de Franco en 1975 à l’intégration européenne effective en 1986) sont pour l’Espagne un moment et un tournant politiques majeurs. Ces années sont celle d’une transition vers un régime démocratique qui est marquée par des à-coups : avancées (Ley para la Reforma política, élections de 1977, Pactos de la Moncloa, Constitution de 1978…) et tentatives d’opposition (Operación Galaxia, terrorisme, 23F…). 
 
 Si la construction de la monarchie parlementaire espagnole et de l’Estado de las Autonomías s’avère assez rapide, avec l’adoption des principes et des institutions démocratiques entre 1975 et 1978, et des premiers statuts autonomiques (naciones históricas : País Vasco y Cataluña, 1979), le processus d’intégration politique et économique de l’Espagne à l’Europe a pris davantage de temps : les enjeux politiques, économiques et sociaux étaient tels que le nouveau régime devait d’abord être fermement affirmé. La conquête du pouvoir par le PSOE dirigé par Felipe González marque l’alternance politique en 1982 et est un des premiers signes tangibles de l’enracinement de la démocratie.
 
-Ainsi, l’adhésion de l’Espagne à la CEE en 1986 peut être envisagée comme l’abo utissement du processus de transition démocratique commencé une décennie plus tôt. Enfin, il faudra prendre en compte les soubresauts de violence politique qui émaillent la mise en place de la démocratie, de la tentative de coup d’état du 23 février 1981, à la réactivation de mouvements autonomistes et indépendantistes ainsi que terroristes comme l’ETA.**
+Ainsi, l’adhésion de l’Espagne à la CEE en 1986 peut être envisagée comme l’abo utissement du processus de transition démocratique commencé une décennie plus tôt. Enfin, il faudra prendre en compte les soubresauts de violence politique qui émaillent la mise en place de la démocratie, de la tentative de coup d’état du 23 février 1981, à la réactivation de mouvements autonomistes et indépendantistes ainsi que terroristes comme l’ETA.*
 
 ---
 
