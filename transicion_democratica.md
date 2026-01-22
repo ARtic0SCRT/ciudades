@@ -19,25 +19,28 @@ Si bien la construcción de la monarquía parlamentaria española y del Estado d
 
 Así, la adhesión de España a la CEE en 1986 puede considerarse como la culminación del proceso de transición democrática iniciado una década antes. Por último, hay que tener en cuenta los episodios de violencia política que salpicaron la instauración de la democracia, desde el intento de golpe de Estado del 23 de febrero de 1981 hasta la reactivación de los movimientos autonomistas e independentistas, así como de grupos terroristas como ETA.
 
+---
+# *Contexto*
 
-# Contexto
-
-- El contexto de los años 1970 en España y caracterizar el último periodo de la dictadura de Franco (“atado y bien atado”, el búnker, los inmovilistas, Carrero Blanco, Arias Navarro);
-- Los trastornos de noviembre 1975: muerte de Franco (20 N) y juramento de Juan Carlos como rey de España en la Cortes franquista (22 N);
+- El contexto de los años 1970 en España y caracterizar el último periodo de la dictadura de Franco
+- Eventos de noviembre 1975:
+  - muerte de Franco (20 N)
+  - juramento de Juan Carlos como rey de España en la Cortes franquista (22 N);
 - La cuestión de una democratización: ¿ruptura o reforma?,
 
-# La problemática es:
-¿Cómo España llegó a convertirse en un régimen democrático?
+# *Pregunta*
+*¿Cómo España llegó a convertirse en un régimen democrático?*
 
-Se puede establecer el plan siguiente (es una propuesta y en ningún caso una obligación)
+# *I - La transición democrática (1975 - 1981): la vía de una reforma pactada*
 
-# I - La transición democrática (1975 - 1981): la vía de una reforma pactada
+### 1. «Muerte de Franco»
 
-### 1. «Franco ha muerto»
+- La crisis económica de 1973, 
+- las aspiraciones de la población a una sociedad más moderna, 
+- la muerte de Franco y 
+- la sucesión de Juan Carlos, heredero del dictador.
 
-La crisis económica de 1973, las inmensas aspiraciones de la población a una sociedad más moderna, la muerte de Franco y la sucesión de Juan Carlos, heredero del dictador.
-
-### 2. Los gobiernos reformistas y el proceso constitucional ...
+### *2. Los gobiernos reformistas y el proceso constitucional ...*
 
 Dimisión de Carlos Arias Navarro, Suárez franquista reformista primer ministro, la Ley para la reforma política de 1976, la Ley de amnistía de 1977, la candidatura en la adhesión a la CEE en 1977, la Constitución de 1978 y las primeras elecciones del régimen.
 
@@ -49,7 +52,9 @@ Descripción de la crisis del 23 de febrero de 1981, última crisis del franquis
 
 ## 1. La alternancia política
 
-Los gobiernos PSOE de Felipe González (1982 y 1986), la bipolarización de la vida política, el contexto de crisis económica (inflación y paro).
+Los gobiernos PSOE de Felipe González (1982 y 1986), 
+la bipolarización de la vida política, 
+el contexto de crisis económica (inflación y paro).
 
 ## 2. Las violencias políticas
 
