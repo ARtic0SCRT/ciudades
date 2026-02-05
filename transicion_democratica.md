@@ -22,6 +22,8 @@ Así, la adhesión de España a la CEE en 1986 puede considerarse como la culmin
 ---
 # *Contexto*
 
+## Eventos previos que definen el contexto de España, durante este período
+
 - El contexto de los años 1970 en España y caracterizar el último periodo de la dictadura de Franco
 - Eventos de noviembre 1975:
   - muerte de Franco (20 N)
